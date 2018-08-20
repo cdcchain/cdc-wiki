@@ -1,2 +1,1 @@
 # cdc-wiki
-CDC Wiki
